@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B%2C+Welcome+to+my+GitHub)](https://git.io/typing-svg)
+<h1 align="center">I'm Samaa Soltan</h1>
 <h3 align="center">A passionate iOS developer</h3>
 
 - 🔭 I’m currently working on **ChatApp**
