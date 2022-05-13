@@ -2,7 +2,7 @@
 <h1 align="center">I'm Samaa Soltan</h1>
 <h3 align="center">A passionate iOS developer</h3>
 
-- 🎓 I'm a graduate from faculty of science
+- 🎓 I'm a graduate from faculty of science, Mathematics and Computer Science.
 
 - 🔭 I’m currently working on **ChatApp**
 
