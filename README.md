@@ -1,16 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B%2C+Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 <h1 align="center">I'm Samaa Soltan</h1>
-<h3 align="center">A passionate iOS developer</h3>
+<h3 align="center">A passionate MOBILE APPLICATION DEVELOPER</h3>
 
 - 🎓 I'm a graduate from faculty of science, Mathematics and Computer Science.
 
-- 🔭 I’m currently working on **ChatApp**
+- 🔭 I’m currently working on **Store app**
 
-- 🌱 I’m currently learning **Firebase**
+- 👯 I’m looking to collaborate on **flutter projects**
 
-- 👯 I’m looking to collaborate on **iOS projects**
-
-- 💬 Ask me about **things related to iOS development**
+- 💬 Ask me about **things related to flutter or iOS development**
 
 - 📫 How to reach me **samaasoltan6@gmail.com**
 
