@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
-- 💬 Ask me about **things related to flutter or iOS development**
+- 💬 Ask me about **things related to Flutter or iOS development**
 
 - 📫 How to reach me **samaasoltan6@gmail.com**
 
