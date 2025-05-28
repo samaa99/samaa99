@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B%2C+Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 <h1 align="center">I'm Samaa Soltan</h1>
-<h3 align="center">A passionate MOBILE APPLICATION DEVELOPER</h3>
+<h3 align="center">PASSIONATE MOBILE APPLICATION DEVELOPER</h3>
 
 - 🎓 I'm a graduate from faculty of science, Mathematics and Computer Science.
 
